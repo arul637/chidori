@@ -79,10 +79,10 @@ currently it support only few hash algorithms, we working on it to improve the p
 ```
 python crack.py --hash bdc87b9c894da5168059e00ebffb9077 --algorithm md5 --threads 50 --wordlist /opt/wordlists/rockyou.txt
 ```
-<img src="images/crack-passsword1234.jpeg" align="center">
+<img src="images/crack-passsword1234.png" align="center">
 
 
 ```
 python crack.py --hash 65cc4dc419937e5c0e256c8e5692d2c3f04585c8a548e40cce965e146aaa492d1775bd6219e0126ef8333c833edc0299 --algorithm sha-384 --threads 50 --wordlist /opt/wordlists/rockyou.txt
 ```
-<img src="images/crack-jamesbond007.jpeg" align="center">
+<img src="images/crack-jamesbond007.png" align="center">
